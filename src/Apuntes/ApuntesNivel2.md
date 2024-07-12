@@ -30,3 +30,5 @@ implementan estos métodos para crear productos concretos.
 #### Client: 
 Usa una fábrica para crear direcciones 
 y números de teléfono sin conocer sus clases concretas.
+
+![AbstractFactory](/src/Apuntes/AbstractFactory.png)
